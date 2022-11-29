@@ -1,8 +1,8 @@
-[![Header](https://github.com/wr479/wr479/blob/main/hello-2.gif) 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hello+everyone!+I+am+Oleg.+;I+am+engaged+in+programming.)](https://git.io/typing-svg)
+[![Header](https://github.com/wr479/wr479/blob/main/hello-2(1).gif)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hello+everyone!+I+am+Oleg.+;I+am+engaged+in+programming.)](https://git.io/typing-svg)
 =======
 ![Header2](https://github.com/wr479/wr479/blob/main/hello-2.gif)
->>>>>>> 0161784d85fe2318bddfee445762e77b7519b0ba
+
 - 👋 Hi, I’m Oleg 
 - I’m interested programming in particular blockchain development
 - I`m currently studying at a college (TSPC) and studying different programming languages in parallel
