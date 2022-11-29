@@ -1,5 +1,5 @@
-![Header](https://github.com/wr479/wr479/blob/main/hello-2(1).gif)
-=======
+![Header](https://github.com/wr479/wr479/blob/main/hello-2.gif)
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hello+everyone!+I+am+Oleg.+;I+am+engaged+in+programming.)
 =======
 
