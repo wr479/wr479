@@ -12,12 +12,15 @@
 - [![Vkontakte](https://img.shields.io/badge/-Vkontakte-000000?style=flat-sqaure&logo=Vk&logoColor=0077ff)](https://vk.com/icecreamka163)
 - [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=flat-sqaure&logo=telegram&logoColor=27A0D9)](https://t.me/wr479)
 ## Languages and Tools:
-![HTML](https://img.shields.io/badge/-html-121212?style=for-the-badge&logo=html)
-![CSS](https://img.shields.io/badge/-css-121212?style=for-the-badge&logo=css)
+![HTML5](https://img.shields.io/badge/-html5-121212?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-css3-121212?style=for-the-badge&logo=css3)
+![Node.Js](https://img.shields.io/badge/-node.js-121212?style=for-the-badge&logo=node.js)
+![Solidity](https://img.shields.io/badge/-solidity-121212?style=for-the-badge&logo=solidity)
+![Express](https://img.shields.io/badge/-express-121212?style=for-the-badge&logo=express)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-121212?style=for-the-badge&logo=react)
 ![SVG](https://img.shields.io/badge/-SVG-121212?style=for-the-badge&logo=SVG)
 <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-121212?style=for-the-badge&logo=MongoDB) -->
-## HTML, CSS, JavaScript, ReactJS,Adapt Website.Frameworks JS:SVG.
+## HTML5, CSS3, JavaScript,NodeJs,Express,ReactJS,Solidity,Adapt Website.Frameworks JS:SVG,Web3js.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wr479)](https://github.com/anuraghazra/github-readme-stats)
 
