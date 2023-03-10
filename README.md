@@ -11,6 +11,13 @@
 - How to reach me: 
 - [![Vkontakte](https://img.shields.io/badge/-Vkontakte-000000?style=flat-sqaure&logo=Vk&logoColor=0077ff)](https://vk.com/icecreamka163)
 - [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=flat-sqaure&logo=telegram&logoColor=27A0D9)](https://t.me/wr479)
+## Languages and Tools:
+![HTML](https://img.shields.io/badge/-html-121212?style=for-the-badge&logo=html)
+![CSS](https://img.shields.io/badge/-css-121212?style=for-the-badge&logo=css)
+![ReactJs](https://img.shields.io/badge/-ReactJs-121212?style=for-the-badge&logo=react)
+![SVG](https://img.shields.io/badge/-SVG-121212?style=for-the-badge&logo=SVG)
+<!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-121212?style=for-the-badge&logo=MongoDB) -->
+## HTML, CSS, JavaScript, ReactJS,Adapt Website.Frameworks JS:SVG.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wr479)](https://github.com/anuraghazra/github-readme-stats)
 
