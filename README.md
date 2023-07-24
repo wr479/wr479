@@ -20,12 +20,11 @@
 ![ReactJs](https://img.shields.io/badge/-ReactJs-121212?style=for-the-badge&logo=react)
 ![SVG](https://img.shields.io/badge/-SVG-121212?style=for-the-badge&logo=SVG)
 <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-121212?style=for-the-badge&logo=MongoDB) -->
-## HTML5, CSS3, JavaScript,NodeJs,Express,ReactJS,Solidity,Adapt Website.Frameworks JS:SVG,Web3js.
+## HTML5, CSS3,SCSS,swiper JavaScript,NodeJs,Express,ReactJS,Solidity,Adapt Website.Frameworks JS:,Web3js.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wr479)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wr479)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wr479)](https://git.io/streak-stats)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wr479&theme=solarized_dark)
