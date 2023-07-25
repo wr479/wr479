@@ -24,7 +24,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wr479)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=wr479)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=wr479&theme=javascript-dark&border_radius=16&date_format=j%20M%5B%20Y%5D&card_width=850)](https://git.io/streak-stats)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wr479&theme=solarized_dark)
