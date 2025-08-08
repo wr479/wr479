@@ -9,7 +9,6 @@
 - I`m currently studying at a college (TSPC) and studying different programming languages in parallel
 - I’m looking to collaborat  with various companies to gain experience, I will be happy if you are interested in m
 - How to reach me: 
-- [![Vkontakte](https://img.shields.io/badge/-Vkontakte-000000?style=flat-sqaure&logo=Vk&logoColor=0077ff)](https://vk.com/icecreamka163)
 - [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=flat-sqaure&logo=telegram&logoColor=27A0D9)](https://t.me/wr479)
 ## Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-html5-121212?style=for-the-badge&logo=html5)
